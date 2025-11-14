@@ -28,7 +28,7 @@ Monitorar indicadores-chave de vendas, como:
 
 ## 🖼 Preview
 
-![Dashboard Preview](Imagens/dashboard-vendas-preview.png)
+![Dashboard Preview](Imagens/dashboard-preview1.png)
 
 ## 📁 Arquivo
 
@@ -37,5 +37,6 @@ O arquivo `.pbix` está disponível na pasta `Arquivo/`.
 ## 📞 Contato
 
 Para dúvidas, sugestões ou colaborações, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/seu-usuario).
+
 
 
