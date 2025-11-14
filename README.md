@@ -36,7 +36,8 @@ O arquivo `.pbix` está disponível na pasta `Arquivo/`.
 
 ## 📞 Contato
 
-Para dúvidas, sugestões ou colaborações, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/seu-usuario).
+Para dúvidas, sugestões ou colaborações, entre em contato pelo [LinkedIn](http://www.linkedin.com/in/ana-beatriz-marques-ferreira-42125121a).
+
 
 
 
